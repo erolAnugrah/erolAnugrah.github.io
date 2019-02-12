@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9cb629a15497ca4c439460878d65217f.js"
+  "/precache-manifest.62dda65f5003337780e1792cd088438c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "rcti_app"});
